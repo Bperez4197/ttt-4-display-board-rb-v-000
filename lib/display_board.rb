@@ -5,4 +5,4 @@ def display_board
  "A Tic Tac Toe Board"
 end
 board = [" "," "," "," "," "," "," "," "," "]
-
+display_board(board)
