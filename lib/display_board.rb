@@ -5,4 +5,4 @@ def display_board(board)
   puts "   |   |   ","-----------","   | #{board[5]} |   ","-----------","   |   |   "
  "A Tic Tac Toe Board"
 end
-display_board([5])
+display_board(board)
