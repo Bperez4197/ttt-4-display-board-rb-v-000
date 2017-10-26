@@ -4,5 +4,5 @@ def display_board
   puts "   |   |   ","-----------","   |   |   ","-----------","   |   |   "
  "A Tic Tac Toe Board"
 end
-board = [" "," "," "," "," "," "," "," "," "]
+board = [" "," "," ","X"," "," "," "," "," "]
 display_board(board)
