@@ -2,6 +2,6 @@
 # out the current state.
 board = [" "," "," "," ","X"," "," "," "," "]
 def display_board(board)
-  puts "   |   |   ","-----------","   | #{board[5]}  |   ","-----------","   |   |   "
+  puts "   |   |   ","-----------","   |   |   ","-----------","   |   |   "
  "A Tic Tac Toe Board"
 end
